@@ -153,13 +153,7 @@
     "key": "strong",
     "name": "Усиленная",
     "step": 0.8
-  },
-  {
-    "type": "frame",
-    "key": "strong",
-    "name": "СуперУсиленная",
-    "step": 0.4
-  },
+  },  
   {
     "type": "material",
     "key": "metal",
